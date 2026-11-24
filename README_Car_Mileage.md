@@ -63,4 +63,5 @@ These values reflect the project run and may change if the data preparation, fea
 The project demonstrates how multiple vehicle features can be used to predict fuel efficiency. On the reported test split, the Multiple Linear Regression model achieved an R² score of 0.7902 and an RMSE of 3.2727 MPG.
 
 ## Author
-Add your name, roll number, college, and course details here.
+gayatri tawade, Ad3339.
+
